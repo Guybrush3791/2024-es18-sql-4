@@ -1,3 +1,5 @@
+-- NOME REPOSITORY: 2024-es2-database
+
 -- Esercizi solo con SELECT
 -- 1. Seleziona tutti i professori dal dipartimento di Informatica.
 -- res: 
